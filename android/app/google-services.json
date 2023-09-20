@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974151562537",
+    "project_id": "kalsan",
+    "storage_bucket": "kalsan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974151562537:android:f780eaf5624cff5069b338",
+        "android_client_info": {
+          "package_name": "com.finetaste.kalsan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwPLc4sX1RE54eHG886C5LLAe3RW3ff7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

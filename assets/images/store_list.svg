@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53" height="53" viewBox="0 0 53 53">
+  <g id="Group_665" data-name="Group 665" transform="translate(-296 -281)">
+    <g id="Group_595" data-name="Group 595" transform="translate(184)">
+      <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(112 281)" fill="#fff" stroke="#ffcb04" stroke-width="1">
+        <circle cx="26.5" cy="26.5" r="26.5" stroke="none"/>
+        <circle cx="26.5" cy="26.5" r="26" fill="none"/>
+      </g>
+    </g>
+    <g id="_02-shop" data-name="02-shop" transform="translate(307.503 292.503)">
+      <g id="Glyph" transform="translate(0 0)">
+        <path id="Path_2166" data-name="Path 2166" d="M30.989,32H0v1.291a2.583,2.583,0,0,0,2.583,2.583H6.457A2.583,2.583,0,0,0,9.04,33.291a2.583,2.583,0,0,0,2.583,2.583h7.749a2.583,2.583,0,0,0,2.583-2.583,2.583,2.583,0,0,0,2.583,2.583h3.874a2.583,2.583,0,0,0,2.583-2.583V32Z" transform="translate(0 -21.669)" fill="#ffcb04"/>
+        <path id="Path_2167" data-name="Path 2167" d="M75.151,9.04,72.836.936A1.291,1.291,0,0,0,71.594,0H65.679l1.808,9.04Z" transform="translate(-44.474 0)" fill="#ffcb04"/>
+        <path id="Path_2168" data-name="Path 2168" d="M10.455,0H4.54A1.291,1.291,0,0,0,3.3.936L.983,9.04H8.647Z" transform="translate(-0.666 0)" fill="#ffcb04"/>
+        <path id="Path_2169" data-name="Path 2169" d="M40.835,0H34.687L32.879,9.04h9.764Z" transform="translate(-22.264 0)" fill="#ffcb04"/>
+        <path id="Path_2170" data-name="Path 2170" d="M27.246,45.926a3.859,3.859,0,0,1-2.583-.989,3.859,3.859,0,0,1-2.583.989H14.331a3.859,3.859,0,0,1-2.583-.989,3.859,3.859,0,0,1-2.583.989H5.291A3.849,3.849,0,0,1,4,45.7V60.132a1.291,1.291,0,0,0,1.291,1.291H7.874V49.8a1.291,1.291,0,0,1,1.291-1.291h6.457A1.291,1.291,0,0,1,16.914,49.8V61.423H31.12a1.291,1.291,0,0,0,1.291-1.291V45.7a3.849,3.849,0,0,1-1.291.226Zm1.291,7.749a1.291,1.291,0,0,1-1.291,1.291H20.788A1.291,1.291,0,0,1,19.5,53.674V49.8a1.291,1.291,0,0,1,1.291-1.291h6.457A1.291,1.291,0,0,1,28.537,49.8Z" transform="translate(-2.709 -30.429)" fill="#ffcb04"/>
+      </g>
+    </g>
+  </g>
+</svg>
